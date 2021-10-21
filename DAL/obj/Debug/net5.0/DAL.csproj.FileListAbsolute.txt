@@ -1,0 +1,5 @@
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
