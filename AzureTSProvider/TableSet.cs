@@ -35,7 +35,7 @@ namespace AzureTSProvider
             CloudStorageAccount storageAccount = CloudStorageAccount.Parse(connectionString);
             tableClient = storageAccount.CreateCloudTableClient();
             table = tableClient.GetTableReference(tableName);
-            table.CreateIfNotExists();
+            table.CreateIfNotExistsAsync();
         }
 
         public virtual TEntity GetByID(object id)
@@ -50,12 +50,13 @@ namespace AzureTSProvider
         {
             var query = new TableQuery().Where(TableQuery.GenerateFilterCondition("PartitionKey", QueryComparisons.Equal, partitionKey)); //get all customers - because Customer is our partition key
             var result = table.ExecuteQuery(query).ToList();
+            return result;
         }
 
         public virtual void Insert(TEntity entity)
         {
-            TableOperation insertOperation = TableOperation.Insert(entity);
-            table.Execute(insertOperation);
+            TableOperation insertOperation = TableOperation.Insert((ITableEntity)entity);
+            table.ExecuteAsync(insertOperation);
         }
     }
 }

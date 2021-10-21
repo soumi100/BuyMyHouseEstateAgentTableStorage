@@ -18,14 +18,14 @@ namespace BuyMyHouseAgentTableStorage.service
         }
         public void insert(House house)
         {
-            House house = new House()
-            {
-                City = "den haag",
-                NbrRooms = 5,
-                Price = 5000,
-                Id = 2,
-                status =Status.forSale
-            };
+            //House house = new House()
+            //{
+            //    City = "den haag",
+            //    NbrRooms = 5,
+            //    Price = 5000,
+            //    Id = 2,
+            //    status =Status.forSale
+            //};
             _unitOfWork.HouseRepository.Insert(house);
         }
     }

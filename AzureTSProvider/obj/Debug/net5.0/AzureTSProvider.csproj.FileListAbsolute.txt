@@ -1,0 +1,5 @@
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\AzureTSProvider\obj\Debug\net5.0\AzureTSProvider.csproj.AssemblyReference.cache
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\AzureTSProvider\obj\Debug\net5.0\AzureTSProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\AzureTSProvider\obj\Debug\net5.0\AzureTSProvider.AssemblyInfoInputs.cache
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\AzureTSProvider\obj\Debug\net5.0\AzureTSProvider.AssemblyInfo.cs
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\AzureTSProvider\obj\Debug\net5.0\AzureTSProvider.csproj.CoreCompileInputs.cache

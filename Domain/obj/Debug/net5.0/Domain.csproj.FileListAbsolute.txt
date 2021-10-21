@@ -1,0 +1,12 @@
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\bin\Debug\net5.0\Domain.dll
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\Domain.dll
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Github Projects\BuyMyHouseEstateAgentTableStorage\Domain\obj\Debug\net5.0\Domain.pdb

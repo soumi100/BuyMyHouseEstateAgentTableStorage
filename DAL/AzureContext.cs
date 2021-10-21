@@ -16,6 +16,6 @@ namespace DAL
             connection = connectionString;
         }
 
-        public TableSet<House> Customers { get; set; }
+        public TableSet<House> Houses { get; set; }
     }
 }
